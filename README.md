@@ -7,4 +7,4 @@
 
 # run example
 * count commas in a file named test
-    * ````cat test | ./dsv ,```
+    * ````cat test | ./dsv ,````
