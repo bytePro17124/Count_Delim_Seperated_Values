@@ -35,6 +35,7 @@ dmpower
 *.exe
 *.out
 *.app
+dsv
 
 # JetBrainsProjectLoadInStuff
 .idea
@@ -44,3 +45,6 @@ dmpower
 # Gimp XCF files for image version control
 res/xcfs/
 
+
+# test file
+test
